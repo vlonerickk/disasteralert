@@ -1,3 +1,5 @@
+<img src='https://capsule-render.vercel.app/api?type=waving&color=A2F7FFFF&height=120&section=header' width='100%'/>
+
 
 # 🌪️ Sistema de Monitoramento de Desastres Naturais
 
@@ -21,7 +23,7 @@ Este projeto foi criado como atividade acadêmica, aplicando conceitos de progra
 ## 🗂️ Estrutura do Projeto
 
 ```
-projeto_monitoramento/
+disasteralert/
 ├── classes/
 │   ├── alerta.py
 │   ├── desastre.py
@@ -69,7 +71,7 @@ python main.py
 
 ## ✍️ Autores
 
-- [Seu Nome](https://github.com/seu-usuario)
+- [Richard Freitas](https://github.com/vlonerickk)
 
 ---
 
@@ -88,3 +90,5 @@ Este projeto tem como objetivo reforçar os seguintes conceitos:
 - Manipulação de dados via terminal
 - Cálculo geográfico utilizando fórmula de Haversine
 - Desenvolvimento de menus interativos e navegação no terminal
+
+<img src='https://capsule-render.vercel.app/api?type=waving&color=A2F7FFFF&height=120&section=header' width='100%'/>
