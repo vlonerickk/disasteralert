@@ -25,3 +25,5 @@ class Localizacao:
 
     def __str__(self):
         return f"{self.cidade} - {self.estado} (Lat: {self.latitude}, Lon: {self.longitude})"
+    def __repr__(self):
+        return f"Localizacao(cidade={self.cidade}, estado={self.estado}, latitude={self.latitude}, longitude={self.longitude})"

@@ -9,3 +9,5 @@ class Alerta:
 
     def __str__(self):
         return f"[{self.tipo}] Nível: {self.nivel_risco} - {self.mensagem}"
+    def __repr__(self):
+        return f"Alerta(tipo={self.tipo}, mensagem={self.mensagem}, nivel_risco={self.nivel_risco})"
